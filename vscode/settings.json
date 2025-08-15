@@ -1,0 +1,20 @@
+{
+    "explorer.confirmDelete": false,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "database-client.autoSync": true,
+    "explorer.confirmPasteNative": false,
+    "workbench.preferredDarkColorTheme": "Default Light Modern",
+    "workbench.preferredHighContrastColorTheme": "Default Light Modern",
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorTheme"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.sideBar.location": "right",
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
+}
