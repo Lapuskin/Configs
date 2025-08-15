@@ -1,8 +1,6 @@
 cweijan.dbclient-jdbc
 cweijan.vscode-database-client2
-deniskoronchik.ostis
 docker.docker
-garytyler.darcula-pycharm
 github.remotehub
 henrytsz.nvim
 magicstack.magicpython
