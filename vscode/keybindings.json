@@ -37,7 +37,7 @@
     },
     {
         "key": "ctrl+shift+o",
-        "command": "workbench.view.outline"
+        "command": "outline.focus"
     },
     {
         "key": "ctrl+shift+f",
