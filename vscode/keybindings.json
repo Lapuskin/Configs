@@ -35,4 +35,20 @@
         "command": "-workbench.panel.chat",
         "when": "workbench.panel.chat.view.copilot.active"
     },
+    {
+        "key": "ctrl+shift+o",
+        "command": "workbench.view.outline"
+    },
+    {
+        "key": "ctrl+shift+f",
+        "command": "workbench.view.search"
+    },
+    {
+        "key": "ctrl+shift+e",
+        "command": "workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "workbench.view.extension.github-cweijan-mysql"
+    }
 ]
